@@ -52,25 +52,23 @@ bus.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>My City</title>
+<title>Bus Stand</title>
 </head>
-<body>
+<body bgcolor="cyan">
 <h1 align="center">
 <font color="red"><b>Chengalpattu - SWT Enterprises</b></font>
 </h1>
 <h3 align="center">
-<font color="blue"><b>DILIP KUMAR R (22008361)</b></font>
+<font color="blue"><b>New Bus Stand</b></font>
 </h3>
-<center>
-<img src="/static/images/map.png" usemap="#MyCity" height="420" width="1100">
-<map name="MyCity">
-<area shape="circle" coords="190,50,20" href="/static/html/bps.html" title="Brindavan Public School">
-<area shape="rectangle" coords="230,30,260,60" href="/static/html/rto.html" title="RTO office">
-<area shape="circle" coords="400,350,50" href="/static/html/ja.html" title="Jeffrey Aquarium">
-<area shape="circle" coords="400,200,75" href="/static/html/bus.html" title="New Bus Stand">
-<area shape="rectangle" coords="490,150,870,320" href="/static/html/park.html" title="Joy Park">
-</map>
-</center>
+<hr size="3" color="red">
+<p align="justify">
+<font face="Courier New" size="5">
+<b>
+Chengalpattu district came into existence on 29.11.2019, when it was carved out of the erstwhile Kancheepuram district. Chengalpattu district being part of the Kancheepuram district until recently and being in close geographical proximity to the city of Kancheepuram which is a cultural hub for the region, has undergone through almost all the phases of history which Kancheepuram has witnessed. From 600 AD to 900 AD the region was under the Pallava rule. It was during the Pallava reign that the Chengalpattu region attained the maximum height of prosperity and cultural glory. The temple architecture, as illustrated by the rock cut temple of Mamallapuram and other temples belonging to the contemporary period along the east coast, was at its excellence during the Pallava period
+</b>
+</font>
+</p>
 </body>
 </html>
 
